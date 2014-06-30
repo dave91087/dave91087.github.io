@@ -16,6 +16,7 @@ tagline: Developing in the free world
 author :
   name : David Castle
   email : dave91087@gmail.com
+  linkedin: johndoe
   github : dave91087
   twitter : dave91087
 #  feedburner : feedname
@@ -74,6 +75,7 @@ JB :
   # Some JB helpers refer to these paths; change them here if needed.
   #
   archive_path: /archive.html
+  about_path: /about.html
   categories_path : /categories.html
   tags_path : /tags.html
   atom_path : /atom.xml
