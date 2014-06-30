@@ -2,8 +2,10 @@
 layout: page
 title: "About"
 description: ""
+group: navigation
 ---
 {% include JB/setup %}
+{% assign posts_collate = site.posts %}
 
 ## Who Am I?
 
