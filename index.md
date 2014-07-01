@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Front Page
-tagline: Getting started with Jekyll
+title: Home
+tagline: Developing in the Free World
 ---
 {% include JB/setup %}
 

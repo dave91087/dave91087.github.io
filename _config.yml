@@ -10,8 +10,8 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-name : "dave91087.github.io"
-title : dave91087.github.io 
+name : "London Dev Dave"
+title : London Dev Dave 
 tagline: Developing in the free world
 author :
   name : David Castle
