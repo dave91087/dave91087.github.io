@@ -2,11 +2,10 @@
 layout: post
 title: "Oracle Session Monitoring"
 description: ""
-category: 
+category: Oracle
 tags: [oracle, tech, sessions]
 ---
 {% include JB/setup %}
-
 In the course of our day to day work, we frequently need to monitor the various sessions running on the DB. Below are some queries I find useful.
 
 I generally save them as easy to run scripts in one folder, for example ~/SQL/sess.sql so that I can run @sess to quickly access my sessions script.
